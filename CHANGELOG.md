@@ -13,3 +13,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Signaling codec and router in `src/signal` (offer / answer / candidate)
 - Wire protocol documentation in `docs/PROTOCOL.md`
 - Tests for the codec and router
+- 2026-08-19 teammate: reviewed PROTOCOL.md
