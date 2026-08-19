@@ -20,3 +20,7 @@ test/
 ```sh
 node src/server.js
 ```
+
+## Status
+
+Signaling core, protocol doc and tests are in; ICE lives on `feat/ice`.
